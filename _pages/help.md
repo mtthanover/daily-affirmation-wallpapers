@@ -6,7 +6,7 @@ include_in_header: false
 
 # Having trouble setting your wallpaper? We're here to help! 
 
-###Follow the FAQ below. Still having issues? Reach out to dailyaffirmationwallpapers@gmail.com and we'll help!
+### Follow the FAQ below. Still having issues? Reach out to dailyaffirmationwallpapers@gmail.com and we'll help!
 
 
 <br>
